@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+tensorflow
+gensim
+nltk
+pandas
+numpy
+seaborn
+python-dotenv
+groq
+pypdf
