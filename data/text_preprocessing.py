@@ -8,7 +8,7 @@ import pandas as pd
 
 # Download necessary NLTK resources for processing text
 nltk.download('stopwords')
-nltk.download('wordnet')
+nltk.download('wordnet')  
 nltk.download('punkt')
 
 # Load the dataset and specify columns to use
