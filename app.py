@@ -3,7 +3,6 @@ from getters.prompts import get_drug, get_diagnosis, q_n_a
 from utils.predict_utils import predict_sentence
 from utils.pdf_extraction import extract_from_pdf, extract_from_pdfs
 
-
 def show_results(container, query, text_docs):
     cnt = 1
 
