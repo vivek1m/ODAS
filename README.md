@@ -55,5 +55,5 @@ Embedding model is stored in 'embedding_model' directory.
 - **Harsh Saoji**  
 
 
-#### Download the dataset from below: 
+#### Download the dataset from below:
 https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification
